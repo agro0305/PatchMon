@@ -1,3 +1,5 @@
+> **Archived 2026-11-17:** this is an unmodified fork of PatchMon/PatchMon (no commits of our own, 641 behind upstream); the owner decided to archive it, not delete it. Use the upstream project instead.
+
 <div align="center">
 
 # PatchMon
